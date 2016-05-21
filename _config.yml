@@ -15,7 +15,7 @@ author: 'Nikos Papasarantopoulos'
 # edit 'categories' in the front matter of every post to match this username
 nickname: papagandalf
 bio: ''
-location: 'UK'
+location: 'Edinburgh, UK'
 url: 'http://papagandalf.github.io/'
 image: 'assets/images/me.jpg'
 
@@ -27,8 +27,8 @@ baseurl: /blog/
 
 # Permalinks
 permalink: /:title
-# permalink: /author/:username
-# permalink: /tag/:tag
+#permalink: /author/:username
+#permalink: /tag/:tag
 
 
 # gems and other configs
