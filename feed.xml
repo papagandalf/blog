@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog - Articles</title>
+    <description></description>
+    <link>
+    http://papagandalf.github.io/</link>
+    
+      
+      <item>
+        <title>Test</title>
+        
+          <description>&lt;p&gt;Test post.&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 12 Aug 2014 11:18:00 +0100</pubDate>
+        <link>
+        http://papagandalf.github.io//test-post-init</link>
+        <guid isPermaLink="true">http://papagandalf.github.io//test-post-init</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
